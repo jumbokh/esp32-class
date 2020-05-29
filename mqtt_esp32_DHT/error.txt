@@ -1,0 +1,19 @@
+Arduino:1.6.5 (Windows 8.1), 板子："DOIT ESP32 DEVKIT V1, 80MHz, 921600, None"
+
+WARNING: library WiFi claims to run on [esp32] architecture(s) and may be incompatible with your current board which runs on [arduino-esp32] architecture(s).
+
+
+
+mqtt_esp32_DHT.ino: In function 'void setup()':
+mqtt_esp32_DHT:133: error: invalid conversion from 
+'void (*)(String, byte*, unsigned int) {aka void (*)(String, unsigned char*, unsigned int)}' to 
+'void (*)(char*, uint8_t*, unsigned int) {aka void (*)(char*, unsigned char*, unsigned int)}' [-fpermissive]
+In file included from mqtt_esp32_DHT.ino:13:0:
+C:\Program Files (x86)\Arduino\libraries\pubsubclient-2.6\src/PubSubClient.h:121:18: note:   initializing argument 1 of 'PubSubClient& PubSubClient::setCallback(void (*)(char*, uint8_t*, unsigned int))'
+    PubSubClient& setCallback(MQTT_CALLBACK_SIGNATURE);
+                  ^
+invalid conversion from 'void (*)(String, byte*, unsigned int) {aka void (*)(String, unsigned char*, unsigned int)}' to 'void (*)(char*, uint8_t*, unsigned int) {aka void (*)(char*, unsigned char*, unsigned int)}' [-fpermissive]
+
+  這份報告的詳情將會在
+  "編譯時顯示詳細輸出資訊"
+  在檔案 > 偏好設定裡啟用。

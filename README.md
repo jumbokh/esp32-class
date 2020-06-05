@@ -11,4 +11,5 @@
 #### [Video Streaming Server on ESP32-CAM](https://medium.com/@chauhannaman98/video-streaming-server-on-esp32-cam-84e2ff788937)
 ##
 ### Lab
-* 1. 
+* 1. 測試Led補光 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-Flash.ino)
+

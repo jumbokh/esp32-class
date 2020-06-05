@@ -7,4 +7,5 @@
 ##
 ### 連線腳位
 ### ![ESP32CAM 串電腦](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32cam-serial.jpeg)
+#### [Video Streaming Server on ESP32-CAM](https://medium.com/@chauhannaman98/video-streaming-server-on-esp32-cam-84e2ff788937)
 

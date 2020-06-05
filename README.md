@@ -7,6 +7,7 @@
 ##
 ### 連線腳位
 ### ![ESP32CAM 串電腦](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32cam-serial.jpeg)
+### ![PL2303TA 下載線 USB轉TTL RS232模塊 ](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-CAM-cnt.png)
 #### [Video Streaming Server on ESP32-CAM](https://medium.com/@chauhannaman98/video-streaming-server-on-esp32-cam-84e2ff788937)
 ##
 ### Lab

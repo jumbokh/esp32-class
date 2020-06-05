@@ -17,4 +17,8 @@
 * 4. 拍照存SD卡 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-irdaSD.ino)
 * 5. 超音波測試程式 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-echopin.ino)
 * 6. 超音波+Line通知範例程式 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-echopinLine.ino)
-* 7. 
+### Python
+* 1. [HelloWorld.py](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/HelloWorld.py)
+* 2. [Python使用WebCAM拍照 ](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-cap.py)
+* 3. [Python開啟ESP32CAM ](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM.py)
+* 4. [ESP32CAM紅外線SD卡]()

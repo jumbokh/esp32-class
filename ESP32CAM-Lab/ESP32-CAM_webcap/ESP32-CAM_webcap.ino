@@ -2,7 +2,7 @@
 //IR sensor set at GPIO13
 //Must Insert SD card
 
-const char* ssid = "informatics"; //remember change your SSID 
+const char* ssid = "CHT-10-5"; //remember change your SSID 
 const char* password = "0953313123";// remember change your SSID PW
 int IRpin=13;
 

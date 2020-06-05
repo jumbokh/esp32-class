@@ -2,6 +2,7 @@
 ### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/esp32s.jpg)
 ##
 ### ESP32CAM
+### Windows 環境下操作, 請參考： [ESP32-CAM (arduino)影像伺服器及臉部辨識教學原始檔Video Stream Server](https://youyouyou.pixnet.net/blog/post/119383183)
 ### ![ESP32CAM](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-CAM-pinout.png)
 ### [ESP32-CAM AI-Thinker Pinout Guide: GPIOs Usage Explained](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
 ##

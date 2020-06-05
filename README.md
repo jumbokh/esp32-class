@@ -29,8 +29,12 @@
 * 1. [HelloWorld.py](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/HelloWorld.py)
 * 2. [Python使用WebCAM拍照 ](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-cap.py)
 * 3. [Python開啟ESP32CAM ](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM.py)
-* 4. [Arduino: ESP32CAM紅外線SD卡](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-irdaSD-org.ino)
-* 5. [ESP32CAM+Yolo v3+Line](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMdetLine.py)
-* 6. [開門](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMdoor.py)
-* 7. [Arduino: 伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo.ino)
-* 8. [Arduino: Web伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo-1.ino)
+* 4. [opencv 測試](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/cvtest.py)
+* 5. [Arduino: ESP32CAM紅外線SD卡](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-irdaSD-org.ino)
+* 6. [ESP32CAM+Yolo v3+Line](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMdetLine.py)
+##
+### AI 應用
+* 7. [訓練自己的臉部辨識特徵](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
+* 8. [開門](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMdoor.py)
+* 9. [Arduino: 伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo.ino)
+* 10. [Arduino: Web伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo-1.ino)

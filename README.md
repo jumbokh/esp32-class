@@ -36,5 +36,6 @@
 ### AI 應用
 * 7. [訓練自己的臉部辨識特徵](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
 * 8. [開門](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMdoor.py)
-* 9. [Arduino: 伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo.ino)
-* 10. [Arduino: Web伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo-1.ino)
+* 9 [Darknet using Colab](https://nbviewer.jupyter.org/github/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/Yolov3_Darknet_on_Colab.ipynb)
+* 10. [Arduino: 伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo.ino)
+* 11. [Arduino: Web伺服馬達控制](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMservo-1.ino)

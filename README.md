@@ -7,6 +7,8 @@
 ### 或是
 [ESP32-CAM Video Streaming and Face Recognition with Arduino IDE](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/)
 ### ![ESP32CAM](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-CAM-pinout.png)
+### 還有
+[ESP32-CAM - A.I. Thinker](https://github.com/v12345vtm/esp32-cam-ai-thinker)
 ### [ESP32-CAM AI-Thinker Pinout Guide: GPIOs Usage Explained](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
 ##
 ### 連線腳位

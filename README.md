@@ -10,6 +10,8 @@
 ### 還有
 [ESP32-CAM - A.I. Thinker](https://github.com/v12345vtm/esp32-cam-ai-thinker)
 ### [ESP32-CAM AI-Thinker Pinout Guide: GPIOs Usage Explained](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
+### [AIoT之Python+ Arduino ESP32-CAM做人臉辨識](https://kobayasitenmei.pixnet.net/blog/post/227576372-aiot%e4%b9%8bpython%e7%a8%8b%e5%bc%8f%e7%a2%bc%2b-arduino-esp32-cam%e5%81%9a%e4%ba%ba%e8%87%89%e8%be%a8%e8%ad%98?pixfrom=related) [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/face_detect_esa32-cam01.py)
+### [haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 ##
 ### 連線腳位
 ### ![ESP32CAM 串電腦](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32cam-serial.jpeg)

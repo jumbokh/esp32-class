@@ -12,4 +12,9 @@
 ##
 ### Lab
 * 1. 測試Led補光 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-Flash.ino)
-
+* 2. 內建WebServer範例 [目錄](https://github.com/jumbokh/esp32-class/tree/master/ESP32CAM-Lab/CameraWebServer)
+* 3. 修改過 WebServer ,SD卡寫入 [修改主程式](https://github.com/jumbokh/esp32-class/tree/master/ESP32CAM-Lab/ESP32-CAM_webcap)
+* 4. 拍照存SD卡 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-irdaSD.ino)
+* 5. 超音波測試程式 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-echopin.ino)
+* 6. 超音波+Line通知範例程式 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-echopinLine.ino)
+* 7. 

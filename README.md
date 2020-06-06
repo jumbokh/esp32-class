@@ -26,6 +26,7 @@
 * 5. 超音波測試程式 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-echopin.ino)
 * 6. 超音波+Line通知範例程式 [src](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-echopinLine.ino)
 ### Python
+#### [建制參考](https://medium.com/python4u/%E7%94%A8conda%E5%BB%BA%E7%AB%8B%E5%8F%8A%E7%AE%A1%E7%90%86python%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-b61fd2a76566)
 * 1. [HelloWorld.py](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/HelloWorld.py)
 * 2. [Python使用WebCAM拍照 ](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-cap.py)
 * 3. [Python開啟ESP32CAM ](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM.py)

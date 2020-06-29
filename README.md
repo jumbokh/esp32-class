@@ -33,6 +33,7 @@
 * 4. [opencv 測試](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/cvtest.py)
 * 5. [Arduino: ESP32CAM紅外線SD卡](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAM-irdaSD-org.ino)
 * 6. [ESP32CAM+Yolo v3+Line](https://github.com/jumbokh/esp32-class/blob/master/ESP32CAM-Lab/ESP32-CAMdetLine.py)
+* 7. [GETTING STARTED WITH ESP32 ESP-IDF (PART 2)](http://iot-bits.com/esp32/getting-started-with-esp32-esp-idf-part-2/)
 ##
 ### AI 應用
 * 7. [訓練自己的臉部辨識特徵](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)

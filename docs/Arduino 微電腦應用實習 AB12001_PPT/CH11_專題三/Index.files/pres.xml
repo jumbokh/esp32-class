@@ -1,0 +1,701 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="46448" gridspacingy="46448">
+  <p:master id="6" slidesn="1CB8C3F,667F5400" type="main" href="master06.htm"
+   xmlhref="master06.xml" template="1_預設簡報設計" preserved="t" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#969696,#000000,#fbdf53,#ff9966,#cc3300,#996600"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#99ccff,#ccccff,#3333cc,#af67ff"/>
+    <p:colorscheme
+     colors="#def6f1,#000000,#969696,#000000,#ffffff,#8dc6ff,#0066cc,#00a800"/>
+    <p:colorscheme
+     colors="#ffffd9,#000000,#777777,#000000,#fffff7,#33cccc,#ff5050,#ff9900"/>
+    <p:colorscheme
+     colors="#008080,#ffffff,#005a58,#ffff99,#006462,#6d6fc7,#00ffff,#00ff00"/>
+    <p:colorscheme
+     colors="#800000,#ffffff,#5c1f00,#dfd293,#cc3300,#be7960,#ffff99,#d3a219"/>
+    <p:colorscheme
+     colors="#000099,#ffffff,#003366,#ccffff,#3366cc,#00b000,#66ccff,#ffe701"/>
+    <p:colorscheme
+     colors="#000000,#ffffff,#336699,#e3ebf1,#003399,#468a4b,#66ccff,#f0e500"/>
+    <p:colorscheme
+     colors="#686b5d,#ffffff,#777777,#d1d1cb,#909082,#809ea8,#ffcc66,#e9dcb9"/>
+    <p:colorscheme
+     colors="#666699,#ffffff,#3e3e5c,#ffffff,#60597b,#6666ff,#99ccff,#ffff99"/>
+    <p:colorscheme
+     colors="#523e26,#ffffff,#2d2015,#dfc08d,#8c7b70,#8f5f2f,#ccb400,#8c9ea0"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="7" slidesn="1CB8C46,32EEEEF0" type="main" href="master07.htm"
+   xmlhref="master07.xml" template="2_自訂設計" preserved="t" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#969696,#000000,#fbdf53,#ff9966,#cc3300,#996600"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#99ccff,#ccccff,#3333cc,#af67ff"/>
+    <p:colorscheme
+     colors="#def6f1,#000000,#969696,#000000,#ffffff,#8dc6ff,#0066cc,#00a800"/>
+    <p:colorscheme
+     colors="#ffffd9,#000000,#777777,#000000,#fffff7,#33cccc,#ff5050,#ff9900"/>
+    <p:colorscheme
+     colors="#008080,#ffffff,#005a58,#ffff99,#006462,#6d6fc7,#00ffff,#00ff00"/>
+    <p:colorscheme
+     colors="#800000,#ffffff,#5c1f00,#dfd293,#cc3300,#be7960,#ffff99,#d3a219"/>
+    <p:colorscheme
+     colors="#000099,#ffffff,#003366,#ccffff,#3366cc,#00b000,#66ccff,#ffe701"/>
+    <p:colorscheme
+     colors="#000000,#ffffff,#336699,#e3ebf1,#003399,#468a4b,#66ccff,#f0e500"/>
+    <p:colorscheme
+     colors="#686b5d,#ffffff,#777777,#d1d1cb,#909082,#809ea8,#ffcc66,#e9dcb9"/>
+    <p:colorscheme
+     colors="#666699,#ffffff,#3e3e5c,#ffffff,#60597b,#6666ff,#99ccff,#ffff99"/>
+    <p:colorscheme
+     colors="#523e26,#ffffff,#2d2015,#dfc08d,#8c7b70,#8f5f2f,#ccb400,#8c9ea0"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="8" slidesn="1CB8C3F,667F5400" type="main" href="master08.htm"
+   xmlhref="master08.xml" template="預設簡報設計" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#969696,#000000,#fbdf53,#ff9966,#cc3300,#996600"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#99ccff,#ccccff,#3333cc,#af67ff"/>
+    <p:colorscheme
+     colors="#def6f1,#000000,#969696,#000000,#ffffff,#8dc6ff,#0066cc,#00a800"/>
+    <p:colorscheme
+     colors="#ffffd9,#000000,#777777,#000000,#fffff7,#33cccc,#ff5050,#ff9900"/>
+    <p:colorscheme
+     colors="#008080,#ffffff,#005a58,#ffff99,#006462,#6d6fc7,#00ffff,#00ff00"/>
+    <p:colorscheme
+     colors="#800000,#ffffff,#5c1f00,#dfd293,#cc3300,#be7960,#ffff99,#d3a219"/>
+    <p:colorscheme
+     colors="#000099,#ffffff,#003366,#ccffff,#3366cc,#00b000,#66ccff,#ffe701"/>
+    <p:colorscheme
+     colors="#000000,#ffffff,#336699,#e3ebf1,#003399,#468a4b,#66ccff,#f0e500"/>
+    <p:colorscheme
+     colors="#686b5d,#ffffff,#777777,#d1d1cb,#909082,#809ea8,#ffcc66,#e9dcb9"/>
+    <p:colorscheme
+     colors="#666699,#ffffff,#3e3e5c,#ffffff,#60597b,#6666ff,#99ccff,#ffff99"/>
+    <p:colorscheme
+     colors="#523e26,#ffffff,#2d2015,#dfc08d,#8c7b70,#8f5f2f,#ccb400,#8c9ea0"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="9" slidesn="1D05B2F,D0C53500" type="main" href="master09.htm"
+   xmlhref="master09.xml" template="3_自訂設計" preserved="t" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#969696,#000000,#fbdf53,#ff9966,#cc3300,#996600"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808080,#000000,#99ccff,#ccccff,#3333cc,#af67ff"/>
+    <p:colorscheme
+     colors="#def6f1,#000000,#969696,#000000,#ffffff,#8dc6ff,#0066cc,#00a800"/>
+    <p:colorscheme
+     colors="#ffffd9,#000000,#777777,#000000,#fffff7,#33cccc,#ff5050,#ff9900"/>
+    <p:colorscheme
+     colors="#008080,#ffffff,#005a58,#ffff99,#006462,#6d6fc7,#00ffff,#00ff00"/>
+    <p:colorscheme
+     colors="#800000,#ffffff,#5c1f00,#dfd293,#cc3300,#be7960,#ffff99,#d3a219"/>
+    <p:colorscheme
+     colors="#000099,#ffffff,#003366,#ccffff,#3366cc,#00b000,#66ccff,#ffe701"/>
+    <p:colorscheme
+     colors="#000000,#ffffff,#336699,#e3ebf1,#003399,#468a4b,#66ccff,#f0e500"/>
+    <p:colorscheme
+     colors="#686b5d,#ffffff,#777777,#d1d1cb,#909082,#809ea8,#ffcc66,#e9dcb9"/>
+    <p:colorscheme
+     colors="#666699,#ffffff,#3e3e5c,#ffffff,#60597b,#6666ff,#99ccff,#ffff99"/>
+    <p:colorscheme
+     colors="#523e26,#ffffff,#2d2015,#dfc08d,#8c7b70,#8f5f2f,#ccb400,#8c9ea0"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="1" slidesn="1D05BDC,D4EC40D0" type="notes" href="master01.htm"
+   layout="notes" slots="header,dateTime,slideImage,body,footer,slideNumber"/>
+  <p:slide id="1" slidesn="1CB8C3F,6688C9E0" href="slide0001.htm"/>
+  <p:slide id="2" slidesn="1D00C38,BBC2EBC0" href="slide0002.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="3" slidesn="1D00C38,BBC2EBC0" href="slide0003.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="4" slidesn="1D00C38,BBC2EBC0" href="slide0004.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="5" slidesn="1D00C38,BBC2EBC0" href="slide0005.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="6" slidesn="1D00C38,BBC2EBC0" href="slide0006.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="7" slidesn="1D00C38,BBC2EBC0" href="slide0007.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="8" slidesn="1D00C38,BBC2EBC0" href="slide0008.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="9" slidesn="1D00C38,BBC2EBC0" href="slide0009.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="11" slidesn="1D00C38,BBC2EBC0" href="slide0011.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="12" slidesn="1D00C38,BBC2EBC0" href="slide0012.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="13" slidesn="1D00C38,BBC2EBC0" href="slide0013.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="14" slidesn="1D00C38,BBC2EBC0" href="slide0014.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="18" slidesn="1D00C38,BBC2EBC0" href="slide0018.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="19" slidesn="1D00C38,BBC2EBC0" href="slide0019.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="20" slidesn="1D00C38,BBC2EBC0" href="slide0020.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="21" slidesn="1D00C38,BBC2EBC0" href="slide0021.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="22" slidesn="1D00C38,BBC2EBC0" href="slide0022.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="23" slidesn="1D00C38,BBC2EBC0" href="slide0023.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="24" slidesn="1D00C38,BBC2EBC0" href="slide0024.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="25" slidesn="1D00C38,BBC2EBC0" href="slide0025.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="26" slidesn="1D00C38,BBC2EBC0" href="slide0026.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="27" slidesn="1D00C38,BBC2EBC0" href="slide0027.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="28" slidesn="1D00C38,BBC2EBC0" href="slide0028.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="29" slidesn="1D00C38,BBC2EBC0" href="slide0029.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="30" slidesn="1D00C38,BBC2EBC0" href="slide0030.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="31" slidesn="1D00C38,BBC2EBC0" href="slide0031.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="32" slidesn="1D00C38,BBC2EBC0" href="slide0032.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="33" slidesn="1D00C38,BBC2EBC0" href="slide0033.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="34" slidesn="1CB8C3F,6688C9E0" href="slide0034.htm"/>
+  <p:slide id="35" slidesn="1D00C38,BBC2EBC0" href="slide0035.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="36" slidesn="1D00C38,BBC2EBC0" href="slide0036.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="37" slidesn="1D00C38,BBC2EBC0" href="slide0037.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="38" slidesn="1D00C38,BBC2EBC0" href="slide0038.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="39" slidesn="1D00C38,BBC2EBC0" href="slide0039.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="40" slidesn="1D00C38,BBC2EBC0" href="slide0040.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="41" slidesn="1D00C38,BBC2EBC0" href="slide0041.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="42" slidesn="1D00C38,BBC2EBC0" href="slide0042.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="43" slidesn="1D00C38,BBC2EBC0" href="slide0043.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="44" slidesn="1D00C38,BBC2EBC0" href="slide0044.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="45" slidesn="1D00C38,BBC2EBC0" href="slide0045.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="46" slidesn="1D00C38,BBC2EBC0" href="slide0046.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="47" slidesn="1D00C38,BBC2EBC0" href="slide0047.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="48" slidesn="1D00C38,BBC2EBC0" href="slide0048.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="49" slidesn="1D00C38,BBC2EBC0" href="slide0049.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="50" slidesn="1D00C38,BBC2EBC0" href="slide0050.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="51" slidesn="1D00C38,BBC2EBC0" href="slide0051.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="52" slidesn="1D00C38,BBC2EBC0" href="slide0052.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="53" slidesn="1D00C38,BBC2EBC0" href="slide0053.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="54" slidesn="1D00C38,BBC2EBC0" href="slide0054.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="55" slidesn="1CB8C3F,6688C9E0" href="slide0055.htm"/>
+  <p:slide id="56" slidesn="1D00C38,BBC2EBC0" href="slide0056.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="57" slidesn="1D00C38,BBC2EBC0" href="slide0057.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="58" slidesn="1D00C38,BBC2EBC0" href="slide0058.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="59" slidesn="1D00C38,BBC2EBC0" href="slide0059.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="60" slidesn="1D00C38,BBC2EBC0" href="slide0060.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="61" slidesn="1D00C38,BBC2EBC0" href="slide0061.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="62" slidesn="1D00C38,BBC2EBC0" href="slide0062.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="63" slidesn="1D00C38,BBC2EBC0" href="slide0063.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="64" slidesn="1D00C38,BBC2EBC0" href="slide0064.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="65" slidesn="1D00C38,BBC2EBC0" href="slide0065.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="66" slidesn="1D00C38,BBC2EBC0" href="slide0066.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="67" slidesn="1D00C38,BBC2EBC0" href="slide0067.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="68" slidesn="1D00C38,BBC2EBC0" href="slide0068.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="69" slidesn="1D00C38,BBC2EBC0" href="slide0069.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="70" slidesn="1D00C38,BBC2EBC0" href="slide0070.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="71" slidesn="1CB8C3F,6688C9E0" href="slide0071.htm"
+   masterhref="master08.htm"/>
+  <p:slide id="72" slidesn="1D05B25,BD0A22A0" href="slide0072.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="73" slidesn="1D05B2C,A66D60" href="slide0073.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="74" slidesn="1D05B2C,B63C180" href="slide0074.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="75" slidesn="1D05B2C,1BA4ACD0" href="slide0075.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="76" slidesn="1D05B2C,2C270DF0" href="slide0076.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="77" slidesn="1D05B2C,38E69AB0" href="slide0077.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="78" slidesn="1D05B2C,5BCFAD50" href="slide0078.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="79" slidesn="1D05B2C,763926D0" href="slide0079.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="80" slidesn="1D05B2C,984FCE40" href="slide0080.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="81" slidesn="1D05B2C,D44F2670" href="slide0081.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="82" slidesn="1D05B2C,A3FD9CE0" href="slide0082.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="83" slidesn="1D05B2C,DCD61290" href="slide0083.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="84" slidesn="1D05B2C,EA872B40" href="slide0084.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="85" slidesn="1D05B2D,B1C290" href="slide0085.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="86" slidesn="1D05B2D,1CBD0530" href="slide0086.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="87" slidesn="1D05B2D,412DA230" href="slide0087.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="88" slidesn="1D05B2D,4B870460" href="slide0088.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="89" slidesn="1D05B30,F6A41290" href="slide0089.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="90" slidesn="1D05B31,1908D00" href="slide0090.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="91" slidesn="1D05B31,F14C950" href="slide0091.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="92" slidesn="1D05B31,33B83620" href="slide0092.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="93" slidesn="1D05B31,3B717200" href="slide0093.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="94" slidesn="1D05B31,59B89AE0" href="slide0094.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="95" slidesn="1D05B31,64E838D0" href="slide0095.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="96" slidesn="1D05B31,7EEC60D0" href="slide0096.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="97" slidesn="1D05B31,889314D0" href="slide0097.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="98" slidesn="1D05B31,9659FF70" href="slide0098.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="99" slidesn="1D05B31,A6B63AF0" href="slide0099.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="100" slidesn="1D05B31,AFDA2A60" href="slide0100.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="101" slidesn="1D05B31,CA226040" href="slide0101.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="102" slidesn="1D05B31,DC468A80" href="slide0102.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="103" slidesn="1D05B31,EA4044F0" href="slide0103.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="104" slidesn="1D05B31,FBE04B10" href="slide0104.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="105" slidesn="1D05B32,289EBB0" href="slide0105.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="106" slidesn="1D05B32,12C2C0B0" href="slide0106.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="107" slidesn="1D05B32,1C295E70" href="slide0107.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="108" slidesn="1D05B32,26F97740" href="slide0108.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="109" slidesn="1D05B32,454CFC30" href="slide0109.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="110" slidesn="1D05B32,56D311B0" href="slide0110.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="111" slidesn="1D05B32,62F6FAB0" href="slide0111.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="112" slidesn="1D05B32,70377740" href="slide0112.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="113" slidesn="1D05B32,76D2C000" href="slide0113.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="114" slidesn="1D05B32,88053740" href="slide0114.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="115" slidesn="1D05B32,901DAA20" href="slide0115.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="116" slidesn="1D05B32,95EFD680" href="slide0116.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="117" slidesn="1D05B32,A7AA4270" href="slide0117.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="118" slidesn="1CB8C3F,6688C9E0" href="slide0118.htm"
+   masterhref="master08.htm"/>
+  <p:slide id="119" slidesn="1D05B30,499C9220" href="slide0119.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="120" slidesn="1D05B30,5A94BF80" href="slide0120.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="121" slidesn="1D05B30,60012530" href="slide0121.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="122" slidesn="1D05B30,6F350D50" href="slide0122.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="123" slidesn="1D05B30,A45D4C40" href="slide0123.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="124" slidesn="1D05B2F,D0C53500" href="slide0124.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="125" slidesn="1D05B2F,D0C53500" href="slide0125.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="126" slidesn="1D05B2F,D0C53500" href="slide0126.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="127" slidesn="1D05B2F,D0C53500" href="slide0127.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="128" slidesn="1D05B2F,D0C53500" href="slide0128.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="129" slidesn="1D05B2F,D0C53500" href="slide0129.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="130" slidesn="1D05B2F,D0C53500" href="slide0130.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="131" slidesn="1D05B2F,D0C53500" href="slide0131.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="132" slidesn="1D05B2F,D0C53500" href="slide0132.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="133" slidesn="1D05B2F,D0C53500" href="slide0133.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="134" slidesn="1D05B2F,D0C53500" href="slide0134.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="135" slidesn="1D05B2F,D0C7A600" href="slide0135.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="136" slidesn="1D05B2F,D0C7A600" href="slide0136.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="137" slidesn="1D05B2F,D0C7A600" href="slide0137.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="138" slidesn="1D05B2F,D0C7A600" href="slide0138.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="139" slidesn="1D05B2F,D0C7A600" href="slide0139.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="140" slidesn="1D05B2F,D0C7A600" href="slide0140.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="141" slidesn="1D05B2F,D0C7A600" href="slide0141.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="142" slidesn="1D05B2F,D0C7A600" href="slide0142.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="143" slidesn="1D05B2F,D0C7A600" href="slide0143.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="144" slidesn="1D05B2F,D0C7A600" href="slide0144.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="145" slidesn="1D05B2F,D0C7A600" href="slide0145.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="146" slidesn="1D05B2F,D0C7A600" href="slide0146.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="147" slidesn="1D05B2F,D0C7A600" href="slide0147.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="148" slidesn="1D05B2F,D0C7A600" href="slide0148.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="149" slidesn="1D05B32,C93C77A0" href="slide0149.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="150" slidesn="1D05B32,C93C77A0" href="slide0150.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="151" slidesn="1D05B32,C93CC5C0" href="slide0151.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="152" slidesn="1D05B32,C93CECD0" href="slide0152.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="153" slidesn="1D05B32,C93CECD0" href="slide0153.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="154" slidesn="1D05B32,C93D13E0" href="slide0154.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="155" slidesn="1D05B32,C93D3AF0" href="slide0155.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="156" slidesn="1D05B32,C93D8910" href="slide0156.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="157" slidesn="1D05B32,C93DB020" href="slide0157.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="158" slidesn="1D05B32,C93DD730" href="slide0158.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="159" slidesn="1D05B32,C93DFE40" href="slide0159.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="160" slidesn="1D05B32,C93E4C60" href="slide0160.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="161" slidesn="1D05B32,C93E9A80" href="slide0161.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="162" slidesn="1D05B32,C93EC190" href="slide0162.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="163" slidesn="1D05B32,C93F0FB0" href="slide0163.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="164" slidesn="1D05B32,C93F36C0" href="slide0164.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="165" slidesn="1D05B32,C93F84E0" href="slide0165.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="166" slidesn="1D05B32,C93FD300" href="slide0166.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="167" slidesn="1D05B32,C93FFA10" href="slide0167.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="168" slidesn="1D05B32,C9404830" href="slide0168.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="169" slidesn="1D05B32,C9406F40" href="slide0169.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="170" slidesn="1D05B32,C940BD60" href="slide0170.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="171" slidesn="1D05B32,C9410B80" href="slide0171.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="172" slidesn="1D05B32,C9413290" href="slide0172.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="173" slidesn="1D05B32,C94180B0" href="slide0173.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="174" slidesn="1D05B32,C941A7C0" href="slide0174.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="175" slidesn="1D05B32,C9421CF0" href="slide0175.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="176" slidesn="1D05B32,C9426B10" href="slide0176.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="177" slidesn="1D05B32,C942B930" href="slide0177.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="178" slidesn="1D05B32,C9430750" href="slide0178.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="179" slidesn="1D05B32,C9435570" href="slide0179.htm"
+   masterhref="master09.htm"/>
+  <p:slide id="180" slidesn="1CB8C3F,6688C9E0" href="slide0180.htm"
+   masterhref="master08.htm"/>
+  <p:slide id="181" slidesn="1D05B25,BD0A22A0" href="slide0181.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="182" slidesn="1D05B2B,4ABA2960" href="slide0182.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="183" slidesn="1D05B2B,5A5CD8E0" href="slide0183.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="184" slidesn="1D05B2B,7838BCD0" href="slide0184.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="185" slidesn="1D05B2B,8B5577E0" href="slide0185.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="186" slidesn="1D05B2B,9E07FF70" href="slide0186.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="187" slidesn="1D05B2B,AFCE0420" href="slide0187.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="188" slidesn="1D05B2B,BFD45770" href="slide0188.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="189" slidesn="1D05B2B,E06F0D40" href="slide0189.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="190" slidesn="1D05B2B,F66F1220" href="slide0190.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="191" slidesn="1D05B2C,287E7850" href="slide0191.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="192" slidesn="1D05B2C,38F085C0" href="slide0192.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="193" slidesn="1D05B2C,45CF8160" href="slide0193.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="194" slidesn="1D05B2C,6541E3D0" href="slide0194.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="195" slidesn="1D05B2C,7017A1F0" href="slide0195.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="196" slidesn="1D05B2C,885A1CC0" href="slide0196.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="197" slidesn="1D05B2C,BA678720" href="slide0197.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="198" slidesn="1D05B2C,FA090C50" href="slide0198.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="199" slidesn="1D05B2D,18D591D0" href="slide0199.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="200" slidesn="1D05B2D,31DFF080" href="slide0200.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="201" slidesn="1D05B2D,4749CFE0" href="slide0201.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="202" slidesn="1D05B2D,64582AA0" href="slide0202.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="203" slidesn="1D05B2D,7FDC14D0" href="slide0203.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="204" slidesn="1D05B2D,8D036410" href="slide0204.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="205" slidesn="1D05B2D,9C26AA60" href="slide0205.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="206" slidesn="1D05B2D,A4C4C800" href="slide0206.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="207" slidesn="1D05B2D,B68638D0" href="slide0207.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="208" slidesn="1D05B2D,BF7B5010" href="slide0208.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="209" slidesn="1D05B2D,D7E4B3D0" href="slide0209.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="210" slidesn="1D05B2D,E1A02850" href="slide0210.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="211" slidesn="1D05B2D,F1E72E20" href="slide0211.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="212" slidesn="1D05B2E,587E9BA0" href="slide0212.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="213" slidesn="1D05B2E,78719FC0" href="slide0213.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="214" slidesn="1D05B2E,8E99ED20" href="slide0214.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="215" slidesn="1D05B2E,A428E0B0" href="slide0215.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="216" slidesn="1D05B2E,BAAA98B0" href="slide0216.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="217" slidesn="1D05B2E,CA349010" href="slide0217.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="218" slidesn="1D05B2E,D71C8C60" href="slide0218.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="219" slidesn="1D05B2E,F838CE40" href="slide0219.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="220" slidesn="1D05B2F,27DE1240" href="slide0220.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="221" slidesn="1CB8C3F,6688C9E0" href="slide0221.htm"/>
+  <p:slide id="222" slidesn="1D00C38,BBC2EBC0" href="slide0222.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="223" slidesn="1D00C38,BBC2EBC0" href="slide0223.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="224" slidesn="1D00C38,BBC2EBC0" href="slide0224.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="225" slidesn="1D00C38,BBC2EBC0" href="slide0225.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="226" slidesn="1D00C38,BBC2EBC0" href="slide0226.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="227" slidesn="1D00C38,BBC2EBC0" href="slide0227.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="228" slidesn="1D00C38,BBC2EBC0" href="slide0228.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="229" slidesn="1D00C38,BBC2EBC0" href="slide0229.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="230" slidesn="1D00C38,BBC2EBC0" href="slide0230.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="231" slidesn="1D00C38,BBC2EBC0" href="slide0231.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="232" slidesn="1D00C38,BBC2EBC0" href="slide0232.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="233" slidesn="1D00C38,BBC2EBC0" href="slide0233.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="234" slidesn="1D00C38,BBC2EBC0" href="slide0234.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="235" slidesn="1CB8C3F,6688C9E0" href="slide0235.htm"/>
+  <p:slide id="236" slidesn="1D00C38,BBC2EBC0" href="slide0236.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="237" slidesn="1D00C38,BBC2EBC0" href="slide0237.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="238" slidesn="1D00C38,BBC2EBC0" href="slide0238.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="239" slidesn="1D00C38,BBC2EBC0" href="slide0239.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="240" slidesn="1D00C38,BBC2EBC0" href="slide0240.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="241" slidesn="1D00C38,BBC2EBC0" href="slide0241.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="242" slidesn="1D00C38,BBC2EBC0" href="slide0242.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="243" slidesn="1D00C38,BBC2EBC0" href="slide0243.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="244" slidesn="1D00C38,BBC2EBC0" href="slide0244.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="245" slidesn="1D00C38,BBC2EBC0" href="slide0245.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="246" slidesn="1D00C38,BBC2EBC0" href="slide0246.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="247" slidesn="1D00C38,BBC2EBC0" href="slide0247.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="248" slidesn="1D00C38,BBC2EBC0" href="slide0248.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="249" slidesn="1D00C38,BBC2EBC0" href="slide0249.htm"
+   masterhref="master07.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="250" slidesn="1CB8C3F,6688C9E0" href="slide0250.htm"/>
+  <p:slide id="251" slidesn="1D00C38,BBC2EBC0" href="slide0251.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="252" slidesn="1D00C38,BBC2EBC0" href="slide0252.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="253" slidesn="1D00C38,BBC2EBC0" href="slide0253.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="254" slidesn="1D00C38,BBC2EBC0" href="slide0254.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="255" slidesn="1D00C38,BBC2EBC0" href="slide0255.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="256" slidesn="1D00C38,BBC2EBC0" href="slide0256.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="257" slidesn="1D00C38,BBC2EBC0" href="slide0257.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="258" slidesn="1D00C38,BBC2EBC0" href="slide0258.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="259" slidesn="1D00C38,BBC2EBC0" href="slide0259.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="260" slidesn="1D00C38,BBC2EBC0" href="slide0260.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="261" slidesn="1D00C38,BBC2EBC0" href="slide0261.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="262" slidesn="1CB8C3F,6688C9E0" href="slide0262.htm"/>
+  <p:slide id="263" slidesn="1D00C38,BBC2EBC0" href="slide0263.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="264" slidesn="1D00C38,BBC2EBC0" href="slide0264.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="265" slidesn="1D00C38,BBC2EBC0" href="slide0265.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="266" slidesn="1D00C38,BBC2EBC0" href="slide0266.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="267" slidesn="1D00C38,BBC2EBC0" href="slide0267.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="268" slidesn="1D00C38,BBC2EBC0" href="slide0268.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="269" slidesn="1D00C38,BBC2EBC0" href="slide0269.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="270" slidesn="1D00C38,BBC2EBC0" href="slide0270.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="271" slidesn="1D00C38,BBC2EBC0" href="slide0271.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="272" slidesn="1D00C38,BBC2EBC0" href="slide0272.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="273" slidesn="1D00C38,BBC2EBC0" href="slide0273.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="274" slidesn="1CB8C3F,6688C9E0" href="slide0274.htm"/>
+  <p:slide id="275" slidesn="1D00C38,BBC2EBC0" href="slide0275.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="276" slidesn="1D00C38,BBC2EBC0" href="slide0276.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="277" slidesn="1D00C38,BBC2EBC0" href="slide0277.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="278" slidesn="1D00C38,BBC2EBC0" href="slide0278.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="279" slidesn="1D00C38,BBC2EBC0" href="slide0279.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="280" slidesn="1D00C38,BBC2EBC0" href="slide0280.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="281" slidesn="1D00C38,BBC2EBC0" href="slide0281.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="282" slidesn="1D00C38,BBC2EBC0" href="slide0282.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="283" slidesn="1D00C38,BBC2EBC0" href="slide0283.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="284" slidesn="1D00C38,BBC2EBC0" href="slide0284.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="285" slidesn="1D00C38,BBC2EBC0" href="slide0285.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="286" slidesn="1D00C38,BBC2EBC0" href="slide0286.htm"
+   masterhref="master07.htm"/>
+  <p:slide id="287" slidesn="1D00C38,BBC2EBC0" href="slide0287.htm"
+   masterhref="master07.htm"/>
+  <p:viewstate type="slideView" slidehref="slide0287.htm" restoredleft="160"
+   restoredtop="946" manualadjustleft="t" hideoutlineicons="t"/>
+  <p:tag name="___PPT12" type="binary" datasize="9" dataoffset="0"/>
+  <p:font name="Arial" charset="0" type="4" family="34"/>
+  <p:font name="新細明體" charset="136" type="4" family="18"/>
+  <p:font name="Calibri" charset="0" type="4" family="34"/>
+  <p:font name="標楷體" charset="136" type="4" family="65"/>
+  <p:headersfooters nouserdate="t" nofooter="t" noheader="t" nodate="t"
+   todaydate="t"/>
+  <p:headersfooters notes="t" nouserdate="t" nofooter="t" noheader="t"
+   nodate="t" todaydate="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="1091588"/>
+</xml>

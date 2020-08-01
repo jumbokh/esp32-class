@@ -1,0 +1,340 @@
+body
+	{width:534px;
+	height:400px;}
+.TB
+	{mso-special-format:nobullet\2022;}
+.T
+	{text-align:center;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:3;
+	font-size:209%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.BB
+	{mso-special-format:bullet\2022;}
+.B
+	{text-align:left;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:152%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B1B
+	{mso-special-format:bullet–;}
+.B1
+	{text-align:left;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:133%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B2B
+	{mso-special-format:bullet\2022;}
+.B2
+	{text-align:left;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:114%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B3B
+	{mso-special-format:bullet–;}
+.B3
+	{text-align:left;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:95%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B4B
+	{mso-special-format:bullet\00BB;}
+.B4
+	{text-align:left;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:95%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.N
+	{font-family:新細明體;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Calibri;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.N1
+	{font-family:新細明體;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Calibri;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.N2
+	{font-family:新細明體;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Calibri;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.N3
+	{font-family:新細明體;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Calibri;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.N4
+	{font-family:新細明體;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Calibri;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.OB
+	{mso-special-format:nobullet\2022;}
+.O
+	{text-align:left;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:85%;}
+.O1
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;}
+.O2
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;}
+.O3
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;}
+.O4
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;}
+.CBB
+	{mso-special-format:nobullet\2022;}
+.CB
+	{text-align:center;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:152%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB1
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB2
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB3
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB4
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CTB
+	{mso-special-format:nobullet\2022;}
+.CT
+	{text-align:center;
+	font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:3;
+	font-size:209%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB1
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB2
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB3
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB4
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB1
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB2
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB3
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB4
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl1
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl2
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl3
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl4
+	{font-family:新細明體;
+	mso-fareast-font-family:新細明體;
+	mso-hansi-font-family:Arial;
+	layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.defaultB
+	{mso-special-format:nobullet\2022;}
+.default
+	{text-align:left;
+	font-family:標楷體;
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:標楷體;
+	mso-hansi-font-family:標楷體;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	text-shadow:none;
+	text-effect:none;
+	mso-fareast-hint:no;
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:104%;
+	mso-text-raise:0%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:0;
+	mso-text-indent-alt:0;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;
+	direction:ltr;
+	mso-word-wrap:1;
+	mso-vertical-align-special:baseline;
+	mso-fareast-language:ZH-TW;}
+a:link
+	{color:#009999 !important;}
+a:active
+	{color:#333399 !important;}
+a:visited
+	{color:#99CC00 !important;}

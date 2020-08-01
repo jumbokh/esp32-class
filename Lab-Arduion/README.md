@@ -6,3 +6,4 @@
 * [Blink](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/blink/blink.ino)
 * [Button](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Button/Button.ino)
 * [Debunce](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Debounce/Debounce.ino)
+![ESP32 In and out](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-INOUT_bb.jpg)

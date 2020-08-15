@@ -9,3 +9,6 @@
 * [Button](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Button/Button.ino)
 * [Debunce](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Debounce/Debounce.ino)
 ![ESP32 In and out](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-INOUT_bb.jpg)
+##
+### 參考連結
+* [RC 电路充放电实验](https://atommann.github.io/learn/rc-circuit/rc-circuit.html)

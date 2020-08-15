@@ -1,5 +1,7 @@
 ### Arduino 實驗 for ESP32-S
 ![ESP32-s pinout](https://github.com/jumbokh/esp32-class/blob/master/images/esp32-s.jpg)
+### 以RC電路解決按鈕彈跳問題
+![BTN RC](https://github.com/jumbokh/esp32-class/blob/master/images/Btn-RC_bb.jpg)
 ##
 * [Hello](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/LAB1-Hello.ino/LAB1-Hello.ino.ino)
 * [Blink Builtin LED](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Blink_builtin/Blink_builtin.ino)

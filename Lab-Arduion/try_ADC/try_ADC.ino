@@ -4,8 +4,8 @@
 
 int pinADC[]={36, 39, 34, 35, 32, 33, 25, 26, 27, 14, 12, 13, 4, 0, 2, 15};
 
-const char* ssid     = "informatics";
-const char* password = "0953313123";
+const char* ssid     = "Your SSID";
+const char* password = "Your Key-phrase";
 void setup()
 {
     for (int i=0; i<16; i++)

@@ -19,5 +19,13 @@
 ##
 ### 類比
 * [類比訊號](https://github.com/jumbokh/esp32-class/blob/master/docs/CH4%E9%A1%9E%E6%AF%94%E8%A8%8A%E8%99%9F.ppt)
+* [try ADC](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/try_ADC/try_ADC.ino)
+### 光照度感測器模組
+![光模組](https://github.com/jumbokh/esp32-class/blob/master/images/comparatormodule_620pxw.jpg)
+* [AnalogInOutSerial](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/AnalogInOutSerial/AnalogInOutSerial.ino)
+* ![模組連接](https://github.com/jumbokh/esp32-class/blob/master/images/zf.png)
+### 溫濕度感測器 DHT11
+* ![DHT11](https://github.com/jumbokh/esp32-class/blob/master/images/DHT11.jpg)
+* [DHT Test](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/DHTtester/DHTtester.ino)
 ### 參考連結
 * [RC 电路充放电实验](https://atommann.github.io/learn/rc-circuit/rc-circuit.html)

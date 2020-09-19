@@ -26,6 +26,7 @@
 ### 注意修改腳位及DHT Type
 ##
 ### 1602 LCD 測試
+![ESP32s](https://raw.githubusercontent.com/jumbokh/esp32-class/master/images/esp32-s.jpg)
 ![ESP32+LCD](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/07/esp32_LCD_bb.png)
 ![連接](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-I2C-LCD-Interfacing.png)
 #### 安裝程式庫

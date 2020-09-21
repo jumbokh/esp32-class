@@ -62,7 +62,8 @@ void loop() {
   Serial.print(F("%  Temperature: "));
   Serial.print(t);
   char nmsg[20];
-  sprintf(nmsg,"%5.2f , %3.0f\%",t,h);
+  sprintf(nmsg,"%5.2f , %3.0f%s",t,h,"\%");
+  Serial.println(nmsg);
   scrollText(1, nmsg, 250,lcdColumns);
 
 }

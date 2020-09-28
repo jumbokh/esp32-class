@@ -1,0 +1,26 @@
+########################################
+# Syntax Coloring Map
+########################################
+
+########################################
+# Datatypes (KEYWORD1)
+########################################
+
+AT_BC26	KEYWORD1
+
+########################################
+# Methods and Functions (KEYWORD2)
+########################################
+
+setSpeed	KEYWORD2
+send	KEYWORD2
+receive	KEYWORD2
+history	KEYWORD2
+debugMsg	KEYWORD2
+milliSecond	KEYWORD2
+microSecond	KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+

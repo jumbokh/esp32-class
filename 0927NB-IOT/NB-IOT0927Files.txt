@@ -1,0 +1,10 @@
+BT聊天 https://docs.google.com/document/d/1RYkLulmgV3cBIFqAiGqYBP6JTnoaNCQLFXJLoAC6yUE/edit
+讀取PΜ25 https://docs.google.com/document/d/1faLBhE_UYACqXH1V3O5f9zRfqc0uQGIQLhIOsEXxyWY/edit
+抓取特定SiteID的PM25 https://docs.google.com/document/d/114z1ObNBR5sATlEokIq7JKM-JjDiPxizDm76gOwxZjk/edit
+json http://opendata2.epa.gov.tw/AQI.json
+thinkspeak - 副本  https://docs.google.com/document/d/1SJFmtDVaAXFIteBV-ymR5gnBuBheiXzEolA6xq-IJzY/edit?copiedFromTrash
+http://av119.ddns.net:8088/?filterID=jumbokh
+BC26 ATcommand https://docs.google.com/document/d/14EfOIeOcI9tq1kt1ox6fE85sNIxd3oyXceyHglX9Fqo/edit
+NBIoT_Test.zip https://drive.google.com/file/d/1hEIIpBBzfKNaRRUEMooMZxMXnEwAMVa_/view
+Adafruit MQTT https://io.adafruit.com/jumbokh/dashboards/con
+MQTT改變燈號 https://docs.google.com/document/d/1Enb-smKcsViBGllh81EXXceNCWPilAn71GUaYjHvmV0/edit

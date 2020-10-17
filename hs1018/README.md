@@ -20,3 +20,11 @@
 ##
 ![Lab 1: DHT Test](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32S-DHT11_bb.jpg)
 ##
+### Lab 2: ESP32 瓦斯警報器 mq-2
+#### 軟體： Arduino IDE
+#### Library: None
+### 程式
+* [MQ-2 Test](https://github.com/jumbokh/esp32-class/blob/master/hs1018/MQ2read/MQ2read.ino)
+##
+![Lab 2: MQ-2 Test](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s-MQ2.jpg)
+##

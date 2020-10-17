@@ -1,5 +1,5 @@
 ### ESP32 實作研習
-### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s.png)
+### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32S.png)
 ##
 ### ESP32CAM
 ### Windows 環境下操作, 請參考尤老師部落格：

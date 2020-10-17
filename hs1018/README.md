@@ -15,6 +15,8 @@
 #### Library:
 * DHT Sensor Library : https://github.com/adafruit/DHT-sensor-library
 * Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
+### 程式
+* [DHTtester](https://github.com/jumbokh/esp32-class/blob/master/hs1018/DHTtester/DHTtester.ino)
 ##
 ![Lab 1: DHT Test](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32S-DHT11_bb.jpg)
 ##

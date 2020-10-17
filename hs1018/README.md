@@ -38,7 +38,7 @@
 #### 軟體： Arduino IDE
 #### Library: None
 ### 程式
-* [BT Chat](https://github.com/jumbokh/esp32-class/blob/master/hs1018/btchart/btchart.ino)
+* [BT Chat](https://github.com/jumbokh/esp32-class/blob/master/hs1018/btchat/btchat.ino)
 ##
 ### Lab 4: ESP32 DHT11 藍芽傳輸
 #### 軟體： Arduino IDE, BT Control App

@@ -1,5 +1,5 @@
 ### Arduino 實驗 for ESP32-S
-![ESP32-s pinout](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32S.jpg)
+![ESP32-s pinout](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32S.png)
 
 ##
 * [Hello](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/LAB1-Hello.ino/LAB1-Hello.ino.ino)

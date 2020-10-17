@@ -28,3 +28,24 @@
 ##
 ![Lab 2: MQ-2 Test](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s-MQ2.jpg)
 ##
+### 藍芽實驗
+#### APP 安裝 (Android)
+![BT app](https://github.com/jumbokh/esp32-class/blob/master/images/BTapp-Install.jpg)
+![BT 配對](https://github.com/jumbokh/esp32-class/blob/master/images/BT-Match.jpg)
+![App 連接](https://github.com/jumbokh/esp32-class/blob/master/images/BTapp-CNT.jpg)
+##
+#### Lab 3: ESP32 Chat
+#### 軟體： Arduino IDE
+#### Library: None
+### 程式
+* [BT Chat](https://github.com/jumbokh/esp32-class/blob/master/hs1018/btchart/btchart.ino)
+##
+### Lab 4: ESP32 DHT11 藍芽傳輸
+#### 軟體： Arduino IDE, BT Control App
+#### Library: DHT Library (同上)
+### 程式
+* [DHT-BT](https://github.com/jumbokh/esp32-class/blob/master/hs1018/DHT-BT/DHT-BT.ino)
+##
+![Lab 4:BT+DHT](https://github.com/jumbokh/esp32-class/blob/master/images/BTapp-Arduino.jpg)
+![BT APP](https://github.com/jumbokh/esp32-class/blob/master/images/BTapp-TH.jpg)
+##

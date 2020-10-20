@@ -49,3 +49,12 @@
 ![Lab 4:BT+DHT](https://github.com/jumbokh/esp32-class/blob/master/images/BTapp-Arduino.jpg)
 ![BT APP](https://github.com/jumbokh/esp32-class/blob/master/images/BTapp-TH.jpg)
 ##
+
+### Lab 5: ESP32 藍芽傳輸 智慧家庭
+#### 軟體： Arduino IDE, BT Control App
+#### Library: None
+### 程式
+* [smart Home](https://github.com/jumbokh/esp32-class/blob/master/hs1018/smarthome/smarthome.ino)
+##
+
+##

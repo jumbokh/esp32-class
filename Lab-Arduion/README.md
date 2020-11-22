@@ -28,3 +28,4 @@
 * [DHT Test](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/DHTtester/DHTtester.ino)
 ### 參考連結
 * [RC 电路充放电实验](https://atommann.github.io/learn/rc-circuit/rc-circuit.html)
+* [AnalogRead+PMW控制LED明亮程度](https://www.wolfaiottw.com/pmw%E6%8E%A7%E5%88%B6led%E6%98%8E%E4%BA%AE%E7%A8%8B%E5%BA%A6/)

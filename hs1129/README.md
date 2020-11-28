@@ -23,6 +23,10 @@
 ##
 ### Lab 3 Simple Servo -- 0~180 度旋轉
 #### Library: [ESP32Servo](https://github.com/jumbokh/esp32-class/tree/master/hs1129/libraries/ESP32Servo)
+* [code](https://github.com/jumbokh/esp32-class/blob/master/hs1129/src/01-SimpleServo/01-SimpleServo.ino)
 * ![SG90接線圖](https://github.com/jumbokh/esp32-class/blob/master/images/SG90.jpg)
 * ![servo](https://github.com/jumbokh/esp32-class/blob/master/images/servo.png)
+##
+### Lab 4 Potentiometer 控制 servo
+
 

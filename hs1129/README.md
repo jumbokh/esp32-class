@@ -35,6 +35,23 @@
 * [code](https://github.com/jumbokh/esp32-class/blob/master/hs1129/src/AnalogInOutServo/AnalogInOutServo.ino)
 ##
 ### Lab 6 Relay 
+#### code
+<pre>
+int relay = 13;
+
+void setup() {
+  pinMode(relay, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(relay, HIGH);
+  delay(10000);
+  digitalWrite(relay, LOW);
+  delay(10000);
+}
+</pre>
+##
 * ![ESP8266+Relay](https://github.com/jumbokh/esp32-class/blob/master/images/relay.png)
+* ![relay](https://github.com/jumbokh/esp32-class/blob/master/images/Relais-Module-ESP32-NodeMCU_Steckplatine.png)
 
 

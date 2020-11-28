@@ -56,5 +56,5 @@ void loop() {
 ##
 ### Lab 7 Relay + USB 風扇 (參考Lab 6)
 ### Lab 8 Relay + USB LED 燈 (參考Lab 6)
-
+### [Smart Home](https://github.com/jumbokh/esp32-class/blob/master/hs1018/smarthome/smarthome.ino)
 

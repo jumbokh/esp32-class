@@ -28,5 +28,13 @@
 * ![servo](https://github.com/jumbokh/esp32-class/blob/master/images/servo.png)
 ##
 ### Lab 4 Potentiometer 控制 servo
+* [code](https://github.com/jumbokh/esp32-class/blob/master/hs1129/src/02-ServoPotentiometer/02-ServoPotentiometer.ino)
+#### 接線同 Lab1 + Lab3
+##
+### Lab 5 Lab4 + LED PWM
+* [code](https://github.com/jumbokh/esp32-class/blob/master/hs1129/src/AnalogInOutServo/AnalogInOutServo.ino)
+##
+### Lab 6 Relay 
+* ![ESP8266+Relay](https://github.com/jumbokh/esp32-class/blob/master/images/relay.png)
 
 

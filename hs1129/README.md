@@ -53,5 +53,8 @@ void loop() {
 ##
 * ![ESP8266+Relay](https://github.com/jumbokh/esp32-class/blob/master/images/relay.png)
 * ![relay](https://github.com/jumbokh/esp32-class/blob/master/images/Relais-Module-ESP32-NodeMCU_Steckplatine.png)
+##
+### Lab 7 Relay + USB 風扇 (參考Lab 6)
+### Lab 8 Relay + USB LED 燈 (參考Lab 6)
 
 

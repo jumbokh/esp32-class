@@ -3,6 +3,8 @@
 ##
 ![SG9960](https://www.jsumo.com/mg996r-servo-motor-digital-1701-65-B.jpg)
 ## 
+#### Step Motor
+![step motor](https://github.com/jumbokh/esp32-class/blob/master/images/step-motor.jpeg)
 ### 11/29 Lab
 #### Description
 * 1. 實驗步驟

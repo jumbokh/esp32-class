@@ -9,6 +9,7 @@
       * 系統建置
       * 程式庫安裝
  ##
+ #### code Link: [simple servo](https://github.com/jumbokh/esp32-class/blob/master/hs1129/src/01-SimpleServo/01-SimpleServo.ino)
  <pre>
  #include <Servo.h>
 

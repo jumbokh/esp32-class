@@ -4,6 +4,7 @@
 * ESP32S * 1
 * Micro USB 通訊線 * 1
 * USB LED 燈
+
 * USB 風扇
 * 繼電器 模組 * 1
 * Half+ 麵包板 * 1

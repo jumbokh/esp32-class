@@ -23,9 +23,10 @@
 ### [Smart Home](https://github.com/jumbokh/esp32-class/blob/master/hs1018/smarthome/smarthome.ino)
 ##
 ### Lab 4 Beep
+* ![Buzzer ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-buzzer_bb.jpg)
 #### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
 #### Add Library: EasyBuzzer
-* ![EZbuzzer Music](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/buzzer-music/buzzer-music.ino)
+* [EZbuzzer Music](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/buzzer-music/buzzer-music.ino)
 * [EZbeep](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/EZBeep/EZBeep.ino)
 * [EZSequence](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/EZSequence/EZSequence.ino)
 * [ESP32 Tone](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/ESP32-Tone/ESP32-Tone.ino)

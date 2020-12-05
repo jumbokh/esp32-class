@@ -38,4 +38,4 @@
 #### Home Work
 * A.聖誕節快到了, 以蜂鳴器嘗試編寫一首應景歌曲
 * ![We wish you a Merry Christmas](https://github.com/jumbokh/esp32-class/blob/master/images/%E8%81%96%E8%AA%95%E7%AF%80%E6%AD%8C%E6%9B%B2%E7%B0%A1%E8%AD%9C.png)
-* B.嘗試整合所學的零件, 
+* B.嘗試整合所學的零件, ESP32+DHT11+Buzzer+USB Fan+Relay

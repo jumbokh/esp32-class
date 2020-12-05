@@ -33,6 +33,8 @@
 * [ESP32 Alert](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-Alert/Buzzer-Alert.ino)
 * [ESP32 Bee](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-bee/Buzzer-bee.ino)
 ##
+#### 小星星簡譜
+* ![小星星簡譜](https://github.com/jumbokh/esp32-class/blob/master/images/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%B0%A1%E8%AD%9C.png)
 #### Home Work
 * A.聖誕節快到了, 以蜂鳴器嘗試編寫一首應景歌曲
 * B.嘗試整合所學的零件, 

@@ -12,7 +12,7 @@
 ### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s-pinout.png)
 ##
 ### Lab 1 Relay
-* ![Relay]()
+* ![Relay](https://github.com/jumbokh/esp32-class/blob/master/images/relay.png)
 * [Blink](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Blink/Blink.ino)
 ##
 ### Lab 2 Power on USB Fan

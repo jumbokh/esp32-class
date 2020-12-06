@@ -1,5 +1,5 @@
 /* 
-  We Wish You a Merry Christmas - Traditional Christmas song
+  Happy Birthday
   Connect a piezo buzzer or speaker to pin 11 or select a new pin.
   More songs available at https://github.com/robsoncouto/arduino-songs                                            
                                               
@@ -112,72 +112,20 @@ int buzzer = 11;
 // so -4 means a dotted quarter note, that is, a quarter plus an eighteenth!!
 int melody[] = {
 
-  // We Wish You a Merry Christmas
-  // Score available at https://musescore.com/user/6208766/scores/1497501
-  
-  NOTE_C5,4, //1
-  NOTE_F5,4, NOTE_F5,8, NOTE_G5,8, NOTE_F5,8, NOTE_E5,8,
-  NOTE_D5,4, NOTE_D5,4, NOTE_D5,4,
-  NOTE_G5,4, NOTE_G5,8, NOTE_A5,8, NOTE_G5,8, NOTE_F5,8,
-  NOTE_E5,4, NOTE_C5,4, NOTE_C5,4,
-  NOTE_A5,4, NOTE_A5,8, NOTE_AS5,8, NOTE_A5,8, NOTE_G5,8,
-  NOTE_F5,4, NOTE_D5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
+  // Happy Birthday
+  // Score available at https://musescore.com/user/8221/scores/26906
 
-  NOTE_F5,2, NOTE_C5,4, //8 
-  NOTE_F5,4, NOTE_F5,8, NOTE_G5,8, NOTE_F5,8, NOTE_E5,8,
-  NOTE_D5,4, NOTE_D5,4, NOTE_D5,4,
-  NOTE_G5,4, NOTE_G5,8, NOTE_A5,8, NOTE_G5,8, NOTE_F5,8,
-  NOTE_E5,4, NOTE_C5,4, NOTE_C5,4,
-  NOTE_A5,4, NOTE_A5,8, NOTE_AS5,8, NOTE_A5,8, NOTE_G5,8,
-  NOTE_F5,4, NOTE_D5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
-  NOTE_F5,2, NOTE_C5,4,
+  NOTE_C4,4, NOTE_C4,8, 
+  NOTE_D4,-4, NOTE_C4,-4, NOTE_F4,-4,
+  NOTE_E4,-2, NOTE_C4,4, NOTE_C4,8, 
+  NOTE_D4,-4, NOTE_C4,-4, NOTE_G4,-4,
+  NOTE_F4,-2, NOTE_C4,4, NOTE_C4,8,
 
-  NOTE_F5,4, NOTE_F5,4, NOTE_F5,4,//17
-  NOTE_E5,2, NOTE_E5,4,
-  NOTE_F5,4, NOTE_E5,4, NOTE_D5,4,
-  NOTE_C5,2, NOTE_A5,4,
-  NOTE_AS5,4, NOTE_A5,4, NOTE_G5,4,
-  NOTE_C6,4, NOTE_C5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
-  NOTE_F5,2, NOTE_C5,4, 
-  NOTE_F5,4, NOTE_F5,8, NOTE_G5,8, NOTE_F5,8, NOTE_E5,8,
-  NOTE_D5,4, NOTE_D5,4, NOTE_D5,4,
-  
-  NOTE_G5,4, NOTE_G5,8, NOTE_A5,8, NOTE_G5,8, NOTE_F5,8, //27
-  NOTE_E5,4, NOTE_C5,4, NOTE_C5,4,
-  NOTE_A5,4, NOTE_A5,8, NOTE_AS5,8, NOTE_A5,8, NOTE_G5,8,
-  NOTE_F5,4, NOTE_D5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
-  NOTE_F5,2, NOTE_C5,4,
-  NOTE_F5,4, NOTE_F5,4, NOTE_F5,4,
-  NOTE_E5,2, NOTE_E5,4,
-  NOTE_F5,4, NOTE_E5,4, NOTE_D5,4,
-  
-  NOTE_C5,2, NOTE_A5,4,//36
-  NOTE_AS5,4, NOTE_A5,4, NOTE_G5,4,
-  NOTE_C6,4, NOTE_C5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
-  NOTE_F5,2, NOTE_C5,4, 
-  NOTE_F5,4, NOTE_F5,8, NOTE_G5,8, NOTE_F5,8, NOTE_E5,8,
-  NOTE_D5,4, NOTE_D5,4, NOTE_D5,4,
-  NOTE_G5,4, NOTE_G5,8, NOTE_A5,8, NOTE_G5,8, NOTE_F5,8, 
-  NOTE_E5,4, NOTE_C5,4, NOTE_C5,4,
-  
-  NOTE_A5,4, NOTE_A5,8, NOTE_AS5,8, NOTE_A5,8, NOTE_G5,8,//45
-  NOTE_F5,4, NOTE_D5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
-  NOTE_F5,2, NOTE_C5,4,
-  NOTE_F5,4, NOTE_F5,8, NOTE_G5,8, NOTE_F5,8, NOTE_E5,8,
-  NOTE_D5,4, NOTE_D5,4, NOTE_D5,4,
-  NOTE_G5,4, NOTE_G5,8, NOTE_A5,8, NOTE_G5,8, NOTE_F5,8,
-  NOTE_E5,4, NOTE_C5,4, NOTE_C5,4,
-  
-  NOTE_A5,4, NOTE_A5,8, NOTE_AS5,8, NOTE_A5,8, NOTE_G5,8, //53
-  NOTE_F5,4, NOTE_D5,4, NOTE_C5,8, NOTE_C5,8,
-  NOTE_D5,4, NOTE_G5,4, NOTE_E5,4,
-  NOTE_F5,2, REST,4
+  NOTE_C5,-4, NOTE_A4,-4, NOTE_F4,-4, 
+  NOTE_E4,-4, NOTE_D4,-4, NOTE_AS4,4, NOTE_AS4,8,
+  NOTE_A4,-4, NOTE_F4,-4, NOTE_G4,-4,
+  NOTE_F4,-2,
+ 
 };
 
 // sizeof gives the number of bytes, each int value is composed of two bytes (16 bits)
@@ -207,7 +155,6 @@ void setup() {
 
     // we only play the note for 90% of the duration, leaving 10% as a pause
     tone(BUZZER_PIN, melody[thisNote], noteDuration * 0.9, BUZZER_CHANNEL);
-
     // Wait for the specief duration before playing the next note.
     delay(noteDuration);
 

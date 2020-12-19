@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: micropython-buzzer
+Version: 1.0.0
+Summary: Buzzer implemetion for MicroPython
+Home-page: https://github.com/micropython/micropython-lib
+Author: MicroPython Developers
+Author-email: micro-python@googlegroups.com
+License: Python
+Description: simplae buzzer implemtion that can play nokia composer notes
+Platform: UNKNOWN

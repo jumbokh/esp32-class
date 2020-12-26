@@ -17,6 +17,7 @@
 * [bumping](https://github.com/jumbokh/esp32-class/blob/master/hs1227/bump.py)
 * ![bumping](https://github.com/jumbokh/esp32-class/blob/master/images/bumping.png)
 * [switch](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
+* ![dip](https://github.com/jumbokh/esp32-class/blob/master/images/dip.png)
 ##
 ### Lab 2 ADC
 * [try ADC](https://github.com/jumbokh/esp32-class/blob/master/hs1227/try-adc.py)

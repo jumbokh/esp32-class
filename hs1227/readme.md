@@ -10,6 +10,7 @@
 ##
 ### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s-pinout.png)
 ##
+### [參考](https://github.com/jumbokh/esp32-class/blob/master/docs/CH04.ppt)
 ### Lab 1 read button state
 * ![readin](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-button-sw_bb.jpg)
 * [read gpio in](https://github.com/jumbokh/esp32-class/blob/master/hs1227/readin.py)

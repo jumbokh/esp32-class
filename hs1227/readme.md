@@ -32,7 +32,7 @@ my-ssid
 my-key
 </pre>
 ##
-* create main.py
+* create main.py [src](https://github.com/jumbokh/esp32-class/blob/master/hs1227/main.py)
 <pre>
 # -*- coding: utf-8 -*-
 
@@ -145,7 +145,8 @@ while True:
     conn.close()
 </pre>
 ##
-* create webtool.html
+* create webtool.html [src](https://github.com/jumbokh/esp32-class/blob/master/hs1227/webtool.html)
+##
 <pre>
 
 <!DOCTYPE html>

@@ -147,32 +147,3 @@ while True:
 ##
 * create webtool.html [src](https://github.com/jumbokh/esp32-class/blob/master/hs1227/webtool.html)
 ##
-<pre>
-
-<!DOCTYPE html>
-<html>
-<head> <title>upy webserver</title> </head>
-<center><h2>upy webserver</h2></center>
-<h3>
-webREPL: <a href="http://micropython.org/webrepl/" target="_blank">webrepl</a>
-<br>
-Doc: <a href="https://docs.micropython.org/en/latest/esp8266/esp8266/quickref.html" target="_blank">Quick reference</a>
-</h3>
-<hr>
-
-<form>
-<b>LED (D4):</b><br>
-<button name="LED" value="ON" type="submit">ON</button><br>
-<button name="LED" value="OFF" type="submit">OFF</button><br>
-</form>
-
-<form>
-<b>T/H sensor (D1):</b><br>
-<button name="th_sensor" value="read" type="submit">Read</button><br>
-T=?degree
-H=?unit
-</form>
-
-</html>
-</pre>
-##

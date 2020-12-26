@@ -26,6 +26,7 @@
 * [PWM](https://github.com/jumbokh/esp32-class/blob/master/hs1227/pwm-led.py)
 ##
 ### Lab 4 Build DHT Web Service
+* ![DHT ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/dht11-esp32.jpg)
 * Create ap.txt
 <pre>
 my-ssid

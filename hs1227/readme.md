@@ -15,6 +15,7 @@
 * [read gpio in](https://github.com/jumbokh/esp32-class/blob/master/hs1227/readin.py)
 * [toggle](https://github.com/jumbokh/esp32-class/blob/master/hs1227/toggle.py)
 * [bumping](https://github.com/jumbokh/esp32-class/blob/master/hs1227/bump.py)
+* ![bumping](https://github.com/jumbokh/esp32-class/blob/master/images/bumping.png)
 * [switch](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
 ##
 ### Lab 2 ADC

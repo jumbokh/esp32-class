@@ -28,6 +28,25 @@
 #### 記得修改 mean 及 std
 ##
 ### 雲端部份
+### 步驟一
 #### 註冊 [iot.cht.com.tw](https://iot.cht.com.tw/iot/login?others=)
 * ![cht iot](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/cht-iot.png)
 ##
+### 步驟二 新增專案
+* 進入 "專案管理", 並點選 +增加專案
+* ![新增專案](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540079818.jpg)
+### 步驟三 增加設備
+* ![增加設備](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540121211.jpg)
+* ![設備](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540165898.jpg)
+* ![擴充屬性](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540216134.jpg)
+### 步驟四 增加感測器
+* ![設定感測器](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540258753.jpg)
+* ![其他資料](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540298832.jpg)
+### 查詢 設備編號、金鑰、感測器 id
+* ![device](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540356992.jpg)
+### 步驟五 執行雲端步頻紀錄儀
+* [Lab12.py](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/LAB12.py)
+    * 修改 wifi ssid, key
+    * mqtt_client_id = 'step'
+    * 修改 username 及 金鑰為 剛剛查詢的金鑰
+    * 修改程式 102 行的設備編號

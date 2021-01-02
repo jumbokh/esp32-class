@@ -52,3 +52,17 @@
     * mqtt_client_id = 'step'
     * 修改 username 及 金鑰為 剛剛查詢的金鑰
     * 修改程式 102 行的設備編號
+### 查詢雲端紀錄
+* 點選專案管理, 選擇 "步頻紀錄儀" 專案
+![專案](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p7.png)
+* 點選顯示感測器歷史資訊
+![query](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p8.png)
+* 顯示折線圖
+![chart](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p9.png)
+### 新增儀表板
+* 點選 "應用服務"-->"儀表板"
+* 新增儀表板
+![wiget1](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p5.png)
+![wiget2](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p6.png)
+* 顯示結果
+![dashboard](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p10.png)

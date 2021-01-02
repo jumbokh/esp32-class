@@ -26,6 +26,6 @@
 #### 記得修改 mean 及 std
 ##
 ### 雲端部份
-#### 註冊 iot.cht.com.tw
+#### 註冊 [iot.cht.com.tw](https://iot.cht.com.tw/iot/login?others=)
 * ![cht iot](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/cht-iot.png)
 ##

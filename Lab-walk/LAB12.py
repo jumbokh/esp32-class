@@ -10,7 +10,7 @@ from umqtt.robust import MQTTClient # mqtt函式庫
 LED=Pin(2,Pin.OUT,value=0)          # 連上WiFi前關閉內鍵led燈
 sta=network.WLAN(network.STA_IF)
 sta.active(True)   
-sta.connect('jumboap','0953313123')  
+sta.connect('your-ssid','your-key')  
 while not sta.isconnected() :
     pass
 LED.value(1)                        # 連上WiFi時亮燈
@@ -18,8 +18,8 @@ LED.value(1)                        # 連上WiFi時亮燈
 # mqtt參數
 mqtt_client_id = 'step'              # 用戶端識別名稱(可以隨意取名)
 CHT_URL = 'iot.cht.com.tw'           # 主機網址
-CHT_USERNAME = 'DKYC4CRYC4A3AC14CK' # 帳戶名稱
-CHT_IO_KEY = 'DKYC4CRYC4A3AC14CK'   # 金鑰
+CHT_USERNAME = '設備金鑰' # 帳戶名稱
+CHT_IO_KEY = '設備金鑰'   # 金鑰
 
 client = MQTTClient(client_id=mqtt_client_id,  # 用戶端識別名稱
                     server=CHT_URL,            # 中介伺服器網址
@@ -99,7 +99,7 @@ while True:
         payload=[{"id":"step","value":[step_count]}] # 傳送的資料
         # 傳送資料到IoT平台
         client.publish(                   
-                   b'/v1/device/25605191351/sensor/step/rawdata',
+                   b'/iot/v1/device/25611797139/rawdata',
                    str(payload).encode()    # 傳送的資料改為bytes物件
                    )               
         print('publish finish')

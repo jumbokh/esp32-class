@@ -1,7 +1,7 @@
 ### 雲端步頻紀錄儀
 ##
 ### MPU6050 六軸加速規測試
-* 燒錄韌體 [firmware](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/firmware/esp32-20200512-v1.12-195-gb16990425.bin)
+* 燒錄韌體 [firmware](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/firmware/esp32-20200512-v1.12-195-gb16990425.bin) 這個micropython韌體已經把MPU6050驅動含進去, 可以直接 import MPU6050
 * 佈線
 * ![pinout](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/ESP32s-Walk_bb.jpg)
 ## 完成品

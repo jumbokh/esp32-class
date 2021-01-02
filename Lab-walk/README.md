@@ -44,6 +44,8 @@
 * ![其他資料](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540298832.jpg)
 ### 查詢 設備編號、金鑰、感測器 id
 * ![device](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540356992.jpg)
+### 新增完成
+* ![device sensor](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p4.png)
 ### 步驟五 執行雲端步頻紀錄儀
 * [Lab12.py](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/LAB12.py)
     * 修改 wifi ssid, key

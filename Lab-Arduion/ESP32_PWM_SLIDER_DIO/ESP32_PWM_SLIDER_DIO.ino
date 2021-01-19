@@ -16,10 +16,10 @@
 #include <ESPAsyncWebServer.h>
 
 // Insert your own wifi network SSID and Password
-const char* ssid = "my-ssid";
-const char* password = "my-key";
+const char* ssid = "gigaenergy";
+const char* password = "12369874";
 
-const int ledPin = 4;
+const int ledPin = 2;
 
 String pwmSliderValue = "0";
 

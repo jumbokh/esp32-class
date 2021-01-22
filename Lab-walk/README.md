@@ -70,3 +70,6 @@
 ![wiget2](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p6.png)
 * 顯示結果
 ![dashboard](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/p10.png)
+
+### 參考專案
+* [3D展示座標](https://randomnerdtutorials.com/esp32-mpu-6050-web-server/)

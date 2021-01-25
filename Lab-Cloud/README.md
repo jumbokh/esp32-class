@@ -9,10 +9,13 @@
 #### Lab 2 MQTT Broker
 * 於手機下載安裝 
 * APP 1 : [MQTT Broker app](https://play.google.com/store/apps/details?id=server.com.mqtt)
+![Broker setup](https://github.com/jumbokh/esp32-class/blob/master/Lab-Cloud/13440101835269.jpg)
+![subscribe](https://github.com/jumbokh/esp32-class/blob/master/Lab-Cloud/13440101807799.jpg)
+![message](https://github.com/jumbokh/esp32-class/blob/master/Lab-Cloud/13440101784616.jpg)
 * APP 2 : [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
 * 設定 Broker: gpssensor.ddns.net:1883
 ![mqtt client](https://github.com/jumbokh/esp32-class/blob/master/Lab-Cloud/conn-broker.jpg)
-![subscribe]()
+
 * 設定 subscribe/publish
     * topic_pub = b'/iotclass/T'
     * topic_pub1 = b'/iotclass/H'

@@ -15,7 +15,7 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "informatics";
+const char* ssid = "jumboap";
 const char* password = "0953313123";
 
 void startCameraServer();

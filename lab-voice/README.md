@@ -9,6 +9,7 @@
 6. 220歐姆電阻 * 1
 7. 小型喇叭
 8. 杜邦線
+9. 2N2222 NPN 電晶體
 </pre>
 #### Lab 1. 聲音感測器訊號
 ![佈線](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/lab-voice_bb.jpg)
@@ -26,3 +27,10 @@
 * 按下按鈕代表開始紀錄聲音, 直到放開按鈕或是資料大於1200筆
 ##
 * ![測試視窗](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/recordtrest.png)
+##
+#### Lab 3. 以電晶體當開關
+* NPN 電晶體： [NPN digikey](https://www.digikey.tw/zh/articles/transistor-basics)
+* ![NPN](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/transistor.jpeg)
+* ![佈線](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/lab-vocalctl_bb.jpg)
+* 開關測試： [程式](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/led.py)
+##

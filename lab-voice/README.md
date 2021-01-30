@@ -17,6 +17,8 @@
 ![graph](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/thonny-menu.png)
 * 測試收音： [程式碼](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/testMIC.py)
 ##
+* ![測試結果](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/mictest.png)
+##
 #### Lab 2. 以喇叭發出聲音
 * 將小喇叭接到 14腳
 * 將按鈕接到 12腳

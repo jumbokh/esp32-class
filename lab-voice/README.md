@@ -35,3 +35,4 @@
 * ![佈線](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/lab-vocalctl_bb.jpg)
 * 開關測試： [程式](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/led.py)
 ##
+* ![npn](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/Lab-npn.jpg)

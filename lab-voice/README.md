@@ -31,6 +31,7 @@
 #### Lab 3. 以電晶體當開關
 * NPN 電晶體： [NPN digikey](https://www.digikey.tw/zh/articles/transistor-basics)
 * ![NPN](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/transistor.jpeg)
+* ![2N2222](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/2n2222.gif)
 * ![佈線](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/lab-vocalctl_bb.jpg)
 * 開關測試： [程式](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/led.py)
 ##

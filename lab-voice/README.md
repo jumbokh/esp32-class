@@ -24,3 +24,5 @@
 * 將按鈕接到 12腳
 * 執行程式 [src](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/recordplay.py)
 * 按下按鈕代表開始紀錄聲音, 直到放開按鈕或是資料大於1200筆
+##
+* ![測試視窗](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/recordtrest.png)

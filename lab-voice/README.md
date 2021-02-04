@@ -36,3 +36,20 @@
 * 開關測試： [程式](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/led.py)
 ##
 * ![npn](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/Lab-npn.jpg)
+#### Lab 4. 實作 智慧聲控燈
+* 蒐集資料: 蒐集三種口令： "打開" "關閉" "其他" 各 100 筆 提供訓練模型使用
+*          檔案： on.txt off.txt others.txt
+* [程式](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/getvoice.py)
+##
+#### Lab 5. 使用 colab 訓練模型
+* 開啟程式 [voice_model.ipynb](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/voice_model.ipynb)
+* 連接主機
+* 建立 voice_data 目錄
+* 上傳蒐集的資料 on.txt off.txt others.txt 至 voice_data之下,  及轉換資料 keras_lite_convertor.py 至根目錄 / 
+* 以卷積神經網路訓練, loss function: 使用多元分類的 categorical_crossentropy
+* 紀錄 mean 及 std, 下載 voice_model.json
+##
+#### Lab 6. 智慧聲控燈
+* [程式](https://github.com/jumbokh/esp32-class/blob/master/lab-voice/LAB22.py)
+* 記得修改 mean 及 std, 還有上傳 voice_model.json 至 micropython 系統
+* 

@@ -2,7 +2,7 @@ import network
 import time
 import ubinascii
 
-SSID='CHT-10-5'
+SSID='Tenda_5295A0'
 KEY='0953313123'
 sta = network.WLAN(network.STA_IF)
 print(sta.active(True))

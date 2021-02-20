@@ -57,3 +57,4 @@
 * 試著呼叫 打開 關閉, 看看 執行狀況
 ##
 #### Reference https://www.homemade-circuits.com/electronic-drum-sound-simulator-circuits/
+####           https://www.pinterest.com/pin/467318898836416700/

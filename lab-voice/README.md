@@ -56,3 +56,4 @@
 * 記得修改 mean 及 std, 還有上傳 voice_model.json 至 micropython 系統
 * 試著呼叫 打開 關閉, 看看 執行狀況
 ##
+#### Reference https://www.homemade-circuits.com/electronic-drum-sound-simulator-circuits/

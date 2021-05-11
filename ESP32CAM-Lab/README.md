@@ -9,3 +9,5 @@ img = cv2.imread('predictions.jpg', cv2.IMREAD_UNCHANGED)
 cv2_imshow(img)
 </pre>
 ##
+* video streaming in jupyter notebook
+    * [Video streaming in the Jupyter Notebook](https://towardsdatascience.com/video-streaming-in-the-jupyter-notebook-635bc5809e85)

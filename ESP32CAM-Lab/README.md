@@ -11,3 +11,4 @@ cv2_imshow(img)
 ##
 * video streaming in jupyter notebook
     * [Video streaming in the Jupyter Notebook](https://towardsdatascience.com/video-streaming-in-the-jupyter-notebook-635bc5809e85)
+    * [Displaying real-time webcam stream in IPython at (relatively) high framerate](https://medium.com/@kostal91/displaying-real-time-webcam-stream-in-ipython-at-relatively-high-framerate-8e67428ac522)

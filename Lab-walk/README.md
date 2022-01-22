@@ -3,9 +3,9 @@
 ### MPU6050 六軸加速規測試
 * 燒錄韌體 [firmware](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/firmware/esp32-20200512-v1.12-195-gb16990425.bin) 這個micropython韌體已經把MPU6050驅動含進去, 可以直接 import MPU6050
 * 佈線
-* ![pinout](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/ESP32s-Walk_bb.jpg)
+* ![pinout](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/ESP32s-MPU6050_bb.jpg)
 ## 完成品
-* ![real](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/13310540459294.jpg)
+* ![real](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/images/LabWalk.jpg)
 ##
 * Lab-1 MPU6050 測試 [src](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/LAB08.py)
 * Lab-2 Button test  [src](https://github.com/jumbokh/esp32-class/blob/master/Lab-walk/LAB09.py)

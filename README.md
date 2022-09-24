@@ -1,5 +1,6 @@
 ### ESP32 實作研習
 ### Arduino IDE: ESP32安裝 https://dl.espressif.com/dl/package_esp32_index.json
+### [CH34SER Driver](https://www.wch.cn/downloads/CH341SER_EXE.html)
 ### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s-pinout.png)
 ##
 ### ESP32CAM

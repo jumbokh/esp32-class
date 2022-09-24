@@ -1,4 +1,5 @@
 ### ESP32 實作研習
+### Arduino IDE: ESP32安裝 https://dl.espressif.com/dl/package_esp32_index.json
 ### ![ESP32](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32s-pinout.png)
 ##
 ### ESP32CAM
